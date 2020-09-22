@@ -3,3 +3,4 @@ bin
 obj
 *.db
 Migrations
+appsettings.json
